@@ -4,7 +4,7 @@ def find_element_index(array, value_to_find)
     puts "Moving on to index number #{2}"
     puts "The current number is #{number}"
   end
-scale = [2, 3, 4, 5]
+end
 
 def find_max_value(array)
 scale_2 = [6,5,4,3]
